@@ -7,6 +7,10 @@ public class MathTester {
       firstWord = "dog";
       secondWord = "house";
 
+      System.out.println(firstWord+secondWord);
+
+
+
 
 
 
