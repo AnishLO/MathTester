@@ -10,6 +10,8 @@ public class MathTester {
       firstNumber = 5;
       secondNumber = 10;
       total = firstNumber+ secondNumber;
+      System.out.println(total);
+
 
 
 
