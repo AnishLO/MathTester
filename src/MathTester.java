@@ -7,8 +7,13 @@ public class MathTester {
 
       firstWord = "dog";
       secondWord = "house";
+      firstNumber = 5;
+      secondNumber = 10;
+
+
 
       System.out.println(firstWord+secondWord);
+
 
 
 
